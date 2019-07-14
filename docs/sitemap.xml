@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/categories/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/tags/github/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/post/easy-markdown-to-github-pages/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/post/my-first-post/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/post/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/tags/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/categories/base16/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/tags/first-post/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/categories/github/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/categories/hugo/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/categories/markdown/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/tags/markdown/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samaratrilling.github.io/hugo101/tags/website/</loc>
+    <lastmod>2019-03-18T07:13:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
