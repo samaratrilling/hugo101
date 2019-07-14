@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on Hugo 101</title>
+    <title>hugo on Blog</title>
     <link>https://samaratrilling.github.io/hugo101/categories/hugo/</link>
-    <description>Recent content in hugo on Hugo 101</description>
+    <description>Recent content in hugo on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 07:13:19 +0100</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>My first post</title>
+      <title>What a fun test post</title>
       <link>https://samaratrilling.github.io/hugo101/post/my-first-post/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
